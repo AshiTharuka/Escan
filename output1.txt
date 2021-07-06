@@ -1,0 +1,67 @@
+Producer-8: Producing number => 22
+Producer-9: Producing number => 10
+Producer-9: Producing Value Added to the Queue 
+Producer-8: Producing Value Added to the Queue 
+Producer-8: Producing number => 68
+Producer-8: Producing Value Added to the Queue 
+Producer-9: Producing number => 92
+Producer-9: Producing Value Added to the Queue 
+Producer-8: Producing number => 69
+Producer-8: Producing Value Added to the Queue 
+Producer-9: Producing number => 30
+Producer-9: Producing Value Added to the Queue 
+Producer-9: Producing number => 11
+Producer-8: Producing number => 35
+Producer-9: Producing Value Added to the Queue 
+Producer-8: Producing Value Added to the Queue 
+Producer-9: Producing number => 8
+Producer-9: Producing Value Added to the Queue 
+Producer-8: Producing number => 81
+Producer-8: Producing Value Added to the Queue 
+Producer-9: Producing number => 13
+Producer-8: Producing number => 81
+Consumer-10: Consuming number <= 22
+Producer-9: Producing Value Added to the Queue 
+Producer-9: Producing number => 29
+Producer-8: Producing Value Added to the Queue 
+Consumer-10: Consuming number <= 10
+Producer-8: Producing number => 39
+Consumer-10: Consuming number <= 68
+Producer-9: Producing Value Added to the Queue 
+Producer-9: Producing number => 64
+Consumer-10: Consuming number <= 92
+Producer-8: Producing Value Added to the Queue 
+Producer-8: Producing number => 68
+Producer-9: Producing Value Added to the Queue 
+Consumer-10: Consuming number <= 69
+Producer-9: Producing number => 84
+Producer-8: Producing Value Added to the Queue 
+Consumer-10: Consuming number <= 30
+Producer-8: Producing number => 21
+Consumer-10: Consuming number <= 11
+Producer-9: Producing Value Added to the Queue 
+Producer-9: Producing number => 21
+Consumer-10: Consuming number <= 35
+Producer-8: Producing Value Added to the Queue 
+Producer-8: Producing number => 61
+Consumer-10: Consuming number <= 8
+Producer-9: Producing Value Added to the Queue 
+Consumer-10: Consuming number <= 81
+Producer-8: Producing Value Added to the Queue 
+Producer STOPPED.
+Consumer-10: Consuming number <= 13
+Producer STOPPED.
+Consumer-10: Consuming number <= 81
+Consumer-10: Consuming number <= 29
+Consumer-10: Consuming number <= 39
+Consumer-10: Consuming number <= 64
+Consumer-10: Consuming number <= 68
+Consumer-10: Consuming number <= 84
+Consumer-10: Consuming number <= 21
+Consumer-10: Consuming number <= 21
+Consumer-10: Consuming number <= 61
+Consumer-10: Consuming number <= -1
+Consumer-10: Consuming number <= -1
+Consumer-10 STOPPED.
+
+Process completed.
